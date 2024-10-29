@@ -6,7 +6,7 @@
 		<link href="guide.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
-		<img src="../img/oldpattern.jpg" alt="Wave BI&amp;BX">
+		<img src="../img/banner_2.jpg" alt="Wave BI&amp;BX">
 		<ul class="waves_btn">
 			<li><a href="#">top</a><li>
 			<li><a href="../index.html">home</a><li>
